@@ -1,2 +1,2 @@
 # bdgrowers
-Repository for bdgrowers cybersecurity.
+Repository for bdgrowers cybersecurity team.
