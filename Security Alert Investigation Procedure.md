@@ -1,4 +1,4 @@
-![[Security Incident Workflow.png]]
+
 
 ## 1. Receive Alert/Ticket
 - Receive Alert from the following sources:
